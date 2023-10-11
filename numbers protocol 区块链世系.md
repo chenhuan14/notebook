@@ -33,4 +33,6 @@ Nit is also a Web3 digital asset management system, in the same spirit as Git, d
 ## 技术架构
 
 - 储存 : IPFS/Filecoin
-- 内容验证：C2PA
+- 内容验证：C2PA 
+- Numbers与C2pA结合案例： [Numbers (numbersprotocol.io)](https://www.numbersprotocol.io/blog/championing-content-provenance)
+
